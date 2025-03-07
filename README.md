@@ -1,0 +1,1 @@
+# rsbuild-class-hmr
